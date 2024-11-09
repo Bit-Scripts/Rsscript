@@ -1,1 +1,9 @@
-token.env
+__pycache__/
+*.pyc
+
+# Environnement virtuel
+venv/
+.env
+
+# Bases de données
+*.db
